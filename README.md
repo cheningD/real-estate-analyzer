@@ -21,7 +21,7 @@ Discord Alert (if ALERT decision)
 
 ## Demo
 
-![Discord Alert Example](screenshot.png)
+![Discord Alert Example](screenshot2.png)
 
 
 ## Current Implementation
